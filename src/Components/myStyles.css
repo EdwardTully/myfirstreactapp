@@ -1,0 +1,26 @@
+.primary {
+    color: orange;
+    font-size: 40px;
+}
+.secondary {
+    color: red;
+    font-size: 50px;
+    width: 800px;
+    margin-left: 20px;
+}
+.tertiary {
+    color: blue;
+    font-size: 70px;
+}
+.container {
+    width: 400px;
+    height: 200px;
+    background-color: wheat;
+    margin: auto;
+    border: 2px solid black;
+}
+.formA{
+    width: 400px;
+    height:200px;
+    background-color: wheat;
+}
